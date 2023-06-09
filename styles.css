@@ -1,0 +1,21 @@
+* {
+    background-color: rgb(63, 63, 63);
+    font-family: 'Times New Roman', Arial, serif;
+    color: white;
+    text-align: center;
+}
+
+h1 {
+    font-size: 52px;
+}
+
+a {
+    text-decoration: none;
+    font-size: 24px;
+    color: rgb(128, 128, 128);
+}
+
+img {
+    height: auto;
+    width: 500px;
+}
