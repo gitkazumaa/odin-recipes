@@ -5,15 +5,25 @@
     text-align: left;
 }
 
-a {
+.recipe-link {
+    display: block;
+    width: 100%;
     text-decoration: none;
     font-size: 24px;
     color: rgb(1,68,23);
 }
 
-h1, h1 a {
+.odin-recipes-title, h1 a {
     font-size: 52px;
     color: #CB953F;
+    margin: 8px;
+    text-align: center;
+}
+
+.recipe-container {
+    width: 1000px;
+    border: 1px solid white;
+    margin: 8px auto;
 }
 
 img {
